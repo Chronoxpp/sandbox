@@ -18,7 +18,7 @@ Estou trabalhando em um projeto, e para conseguir concretiza-lo pedi que o chatG
     - ~~Funções anônimas e arrow functions~~
     - ~~Callbacks e Promises~~
   - Manipulação de objetos e arrays
-    - Métodos úteis (map, filter, reduce, etc.)
+    - ~~Métodos úteis (map, filter, reduce, etc.)~~
   - Conceitos de programação assíncrona:
     - Event Loop
     - Promises e async/await
