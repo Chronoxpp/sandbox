@@ -9,14 +9,14 @@ Estou trabalhando em um projeto, e para conseguir concretiza-lo pedi que o chatG
 - ### JavaScript (Base do Desenvolvimento)
 
   - Sintaxe básica e conceitos fundamentais
-    - Variáveis (let, const, var)
-    - Tipos de dados (strings, arrays, objetos)
-    - Operadores (aritméticos, lógicos, comparação)
-    - Estruturas de controle (if, for, while, switch)
+    - ~~Variáveis (let, const, var)~~
+    - ~~Tipos de dados (strings, arrays, objetos)~~
+    - ~~Operadores (aritméticos, lógicos, comparação)~~
+    - ~~Estruturas de controle (if, for, while, switch)~~
   - Funções
-    - Declaração e expressão de função
-    - Funções anônimas e arrow functions
-    - Callbacks e Promises
+    - ~~Declaração e expressão de função~~
+    - ~~Funções anônimas e arrow functions~~
+    - ~~Callbacks e Promises~~
   - Manipulação de objetos e arrays
     - Métodos úteis (map, filter, reduce, etc.)
   - Conceitos de programação assíncrona:
